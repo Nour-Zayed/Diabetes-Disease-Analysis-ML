@@ -1,6 +1,6 @@
 # Diabetes-Disease-Analysis-ML
 
-📝 Project Overview
+📝 **Project Overview**
 
 This project aims to analyze diabetes data using machine learning techniques. The dataset is explored, preprocessed, 
 and used to train multiple models to predict the likelihood of diabetes based on various health features.
@@ -31,20 +31,20 @@ and used to train multiple models to predict the likelihood of diabetes based on
 
 **Outcome** - 0 (Not Diabetic) or 1 (Diabetic)
 
-🔹 Handling Missing Values:
+🔹 **Handling Missing Values:**
 
 Zero values were replaced with NaN
 
 Missing values were imputed using the median for better accuracy
 
-🔹 Initial Data Analysis:
+🔹**Initial Data Analysis:**
 
 
 describe() was used to obtain statistical summaries of the dataset
 
 info() was used to examine the structure of the dataset
 
-🧠 Machine Learning Models Used
+🧠**Machine Learning Models Used**
 
 Several algorithms were applied to predict diabetes based on the available data:
 
@@ -55,7 +55,7 @@ Several algorithms were applied to predict diabetes based on the available data:
 
 ✅ Extra Trees Classifier - Additional model for better stability and performance
 
-📌 Technologies & Tools Used
+📌 **Technologies & Tools Used**
 
 🛠 Data Analysis & Visualization:
 
@@ -64,11 +64,11 @@ Pandas - For data manipulation
 
 Matplotlib & Seaborn - For data visualization
 
-🛠 Machine Learning & Model Evaluation:
+🛠 **Machine Learning & Model Evaluation:**
 
 Scikit-learn - For training and evaluating models
 
-✨ Project Outcomes
+✨ **Project Outcomes**
 
 📌 Comprehensive analysis of health data for diabetic and non-diabetic individuals
 
