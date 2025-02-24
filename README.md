@@ -5,31 +5,31 @@
 This project aims to analyze diabetes data using machine learning techniques. The dataset is explored, preprocessed, 
 and used to train multiple models to predict the likelihood of diabetes based on various health features.
 
-📊 Dataset Information
+📊**Dataset Information**
 
-🔹 Dataset Name: Diabetes.csv
+🔹 **Dataset Name**: Diabetes.csv
 
-🔹 Number of Columns: 9
+🔹 **Number of Columns**: 9
 
 🔹 Features Used in Analysis:
 
-Pregnancies - Number of times pregnant
+**Pregnancies** - Number of times pregnant
 
-Glucose - Blood glucose level
+**Glucose** - Blood glucose level
 
-BloodPressure - Blood pressure level
+**Blood Pressure** - Blood pressure level
 
-SkinThickness - Skin thickness measurement
+**Skin Thickness** - Skin thickness measurement
 
-Insulin - Insulin level
+**Insulin** - Insulin level
 
-BMI - Body Mass Index
+**BMI** - Body Mass Index
 
-DiabetesPedigreeFunction - Genetic risk factor for diabetes
+**Diabetes Pedigree Function** - Genetic risk factor for diabetes
 
-Age - Patient’s age
+**Age** - Patient’s age
 
-Outcome - 0 (Not Diabetic) or 1 (Diabetic)
+**Outcome** - 0 (Not Diabetic) or 1 (Diabetic)
 
 🔹 Handling Missing Values:
 
